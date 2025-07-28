@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For StepperL298N
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+StepperL298N	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setSpeed	KEYWORD2
+step	KEYWORD2
+stepClockwise	KEYWORD2
+stepCounterClockwise	KEYWORD2
+stopMotor	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
